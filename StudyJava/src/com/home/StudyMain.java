@@ -8,8 +8,8 @@ public class StudyMain {
 	public static void main(String[] args) {
 		
 		
-		String a = new String("ddd");
-		String b = new String("ddffffd");
+		String a = new String("dddssssssssssssssssss");
+		String b = new String("ddffffdddddddddddddddddddddddd");
 		
 		System.out.println(a.equals(b));
 		System.out.println(a == b);
