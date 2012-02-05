@@ -9,7 +9,7 @@ public class StudyMain {
 		
 		
 		String a = new String("ddd");
-		String b = new String("ddd");
+		String b = new String("ddffffd");
 		
 		System.out.println(a.equals(b));
 		System.out.println(a == b);
